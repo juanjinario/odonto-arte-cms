@@ -1,7 +1,7 @@
 ---
 title: La mejor clínica de Salud dental de Cuenca
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/chinito-bg.jpeg
 blurb:
   heading: ¿Por qué confiar en nosotros?
   text: Kaldi is the coffee store for everyone who believes that great coffee
